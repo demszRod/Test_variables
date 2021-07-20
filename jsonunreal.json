@@ -1,0 +1,37 @@
+{
+  "UserInfo":[
+    {
+      "UserId": "0",
+      "firstname": "Omar",
+      "Surname": "Rodriguez",
+      "PlayerDesc": "prueba de variables por web",
+      "MaxGold": "523",
+      "Team": "ROJO",
+    },
+    {
+      "UserId": "1",
+      "firstname": "Alonso",
+      "Surname": "Caceres",
+      "PlayerDesc": "prueba de variables por web numero 2",
+      "MaxGold": "623",
+      "Team": "Verde",
+    },
+    {
+      "UserId": "2",
+      "firstname": "Chapa",
+      "Surname": "porn",
+      "PlayerDesc": "prueba de variables por web numero 3",
+      "MaxGold": "723",
+      "Team": "ROOKO",
+    },
+    {
+      "UserId": "4",
+      "firstname": "pableque",
+      "Surname": "Violado",
+      "PlayerDesc": "prueba de variables por web numero 4",
+      "MaxGold": "323",
+      "Team": "Rosa",
+    }
+    
+    ]
+}
